@@ -1,4 +1,5 @@
-# emotion-based-music-ai
+# emotion recognition based music recommendation system
+# 
 
 just clone this repo or download
 
